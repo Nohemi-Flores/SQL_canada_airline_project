@@ -9,7 +9,7 @@ I analyzed loyalty program signups, enrollment and cancellation details, and add
 **SQL Queries? Inside Sql_load/sql_questions**
 
 # Background
-The data for this project comes from Maven Analytics.
+The data for this project comes from [Maven Analytics](https://mavenanalytics.io/data-playground/airline-loyalty-program)
 
 Questions Answered in Analysis
 
@@ -20,13 +20,13 @@ Questions Answered in Analysis
 # Tools I Used
 I used various key tools for the analysis:
 
-SQL: Queries
+**SQL:** Queries
 
-PostgreSQL: Database
+**PostgreSQL:** Database
 
-Visual Studio Code: Execute queries & database management
+**Visual Studio Code:** Execute queries & database management
 
-Git & GitHub: Version control & share projects
+**Git & GitHub:** Version control & share projects
 
 # Analysis
 
@@ -145,7 +145,7 @@ Now. let's look at the members that enrolled in 2018, particularly the "promotio
 
 - The data shows that 971 customers enrolled during the promotion period (Feb - Apr 2018).
 
-    - Loyalty Card: Start (433), Nova (330), and Aurora (2018).
+    - Loyalty Card: Start (433), Nova (330), and Aurora (208).
 
     - Flights booked post-promotion: 42,721
 
